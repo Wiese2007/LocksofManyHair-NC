@@ -1,0 +1,19 @@
+{
+    "info": {
+        "name": "locksofmanyhair-nc",
+        "version": 3
+    },
+
+    "default_locale" : "en",
+     
+    "overrides": {
+		"/stonehearth/entities/humans/male/male_customizations.json": "/locksofmanyhair-nc/entities/humans/male/male_customizations.json",
+        "/stonehearth/entities/humans/male/male_1.json": "/locksofmanyhair-nc/entities/humans/male/male_1.json",
+        "/stonehearth/entities/humans/male/male_2.json": "/locksofmanyhair-nc/entities/humans/male/male_2.json",
+        "/stonehearth/entities/humans/male/male_3.json": "/locksofmanyhair-nc/entities/humans/male/male_3.json",
+        "/stonehearth/entities/humans/female/female_customizations.json": "/locksofmanyhair-nc/entities/humans/female/female_customizations.json",
+        "/stonehearth/entities/humans/female/female_1.json": "/locksofmanyhair-nc/entities/humans/female/female_1.json",
+        "/stonehearth/entities/humans/female/female_2.json": "/locksofmanyhair-nc/entities/humans/female/female_2.json",
+        "/stonehearth/entities/humans/female/female_3.json": "/locksofmanyhair-nc/entities/humans/female/female_3.json"
+    }
+}
