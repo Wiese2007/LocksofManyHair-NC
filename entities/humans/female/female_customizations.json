@@ -50,7 +50,7 @@
          "type": "model",
          "values": {
             "[none]": {
-               "file": ""
+            "file": ""
                },
             "hair_1": {
                "file": "file(hair_1.qb)"
@@ -118,9 +118,36 @@
             "hair_kitty_dreads": {
             "file": "file(hair_kitty_dreads.qb)"
             },
+            "hair_kitty_spiralcurl": {
+            "file": "file(hair_kitty_spiralcurl.qb)"
+            },
+            "hair_kitty_spiralhat": {
+            "file": "file(hair_kitty_spiralhat.qb)"
+            },       
             "hair_kitty_fancyhigh": {
             "file": "file(hair_kitty_fancyhigh.qb)"
             },
+            "hair_kitty_benefactor": {
+            "file": "file(hair_kitty_benefactor.qb)"
+            },
+            "hair_kitty_benefactorlong": {
+            "file": "file(hair_kitty_benefactorlong.qb)"
+            },
+            "hair_kitty_longerfrizzcurls": {
+            "file": "file(hair_kitty_longerfrizzcurls.qb)"
+            },
+            "hair_kitty_longersimplecurls": {
+            "file": "file(hair_kitty_longersimplecurls.qb)"
+            },
+            "hair_kitty_octotail": {
+            "file": "file(hair_kitty_octotail.qb)"
+            },
+            "hair_kitty_omgfrizzcurls": {
+            "file": "file(hair_kitty_omgfrizzcurls.qb)"
+            },
+            "hair_kitty_omgsimplecurls": {
+            "file": "file(hair_kitty_omgsimplecurls.qb)"
+            },    
             "hair_kitty_fancyshaggy": {
             "file": "file(hair_kitty_fancyshaggy.qb)"
             },
@@ -130,6 +157,9 @@
             "hair_kitty_fancyweave": {
             "file": "file(hair_kitty_fancyweave.qb)"
             },
+            "hair_kitty_frizzcurls": {
+            "file": "file(hair_kitty_frizzcurls.qb)"
+            },            
             "hair_kitty_geeky": {
             "file": "file(hair_kitty_geeky.qb)"
             },
@@ -157,6 +187,12 @@
             "hair_kitty_rogue": {
             "file": "file(hair_kitty_rogue.qb)"
             },
+            "hair_kitty_sideswoop": {
+            "file": "file(hair_kitty_sideswoop.qb)"
+            }, 
+            "hair_kitty_simpcurls": {
+            "file": "file(hair_kitty_simpcurls.qb)"
+            },            
             "hair_kitty_simpleshag": {
             "file": "file(hair_kitty_simpleshag.qb)"
             },
@@ -187,33 +223,42 @@
          }
       },
       "luxury": {
-      	"type": "model",
+         "type": "model",
          "values": {
-        	   "[none]": {
+            "[none]": {
                "file": ""
             },
-         	"necklace": {
+            "bejeweledspecs": {
+               "file": "file(KoD_bejeweledspecs.qb)"
+            },
+            "necklace": {
                "file": "file(KoD_necklace.qb)"
             },
-         	"bunnypendant": {
+            "bunnypendant": {
                "file": "file(KoD_bunnypendant.qb)"
             },
-         	"jewelset": {
+            "cuffcolar": {
+               "file": "file(KoD_cuffcollar.qb)"
+            },
+            "jewelset": {
                "file": "file(KoD_jewelset.qb)"
             },
-         	"largemdant": {
+            "largemdant": {
                "file": "file(KoD_largemdant.qb)"
             },
-         	"sheepling": {
+            "sheepling": {
                "file": "file(KoD_sheepling.qb)"
             },
-         	"simplecollar": {
+            "simplecollar": {
                "file": "file(KoD_simplecollar.qb)"
+            },
+            "veilthulu": {
+               "file": "file(KoD_veilthulu.qb)"
             }
          } 
       },
       "accessory": {
-      	"type": "model",
+         "type": "model",
          "values": {
            "[none]": {
             "file": ""
@@ -254,7 +299,3 @@
            "simplebow": {
             "file": "file(KoD_simplebow.qb)"
             }
-         }
-      }
-   }
-}

@@ -76,6 +76,7 @@
                      "hair_kitty_fancyshaggy": 1,
                      "hair_kitty_fancyshave": 1,
                      "hair_kitty_fancyweave": 1,
+                     "hair_kitty_frizzcurls":1,
                      "hair_kitty_geeky": 1,
                      "hair_kitty_geeky2": 1,
                      "hair_kitty_long": 1,
@@ -84,9 +85,20 @@
                      "hair_kitty_queen": 1,
                      "hair_kitty_ribbons": 1,
                      "hair_kitty_rogue": 1,
+                     "hair_kitty_sideswoop": 1,
+                     "hair_kitty_simpcurls": 1,
                      "hair_kitty_simpleshag": 1,
+                     "hair_kitty_spiralcurl": 1,
+                     "hair_kitty_spiralhat": 1,					 
                      "hair_kitty_workout": 1,
                      "hair_kitty_xena": 1,
+                     "hair_kitty_benefactor": 1,
+                     "hair_kitty_benefactorlong": 1,
+                     "hair_kitty_longerfrizzcurls": 1,
+                     "hair_kitty_longersimplecurls": 1,
+                     "hair_kitty_octotail": 1,					 
+                     "hair_kitty_omgfrizzcurls": 1,
+                     "hair_kitty_omgsimplecurls": 1,						 
                      "hair_sheep_lowpigtail": 1,
                      "hair_kitty_hazcatband": 1,
                      "hair_kitty_hazphones1": 1,
@@ -99,11 +111,14 @@
             "luxury": {
                "weights": {
                   "necklace": 1,
+                  "bejeweledspecs": 1,
                   "bunnypendant": ,
+                  "cuffcolar": 1,
                   "jewelset": 1,
                   "largemdant": 1,
                   "sheepling": 1,
-                  "simplecollar": 1
+                  "simplecollar": 1,
+                  "veilthulu": 1
                }
             },
             "accessory": {
